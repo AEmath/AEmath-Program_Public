@@ -1,4 +1,4 @@
-# AEmath
+# AEmath Program
 这个库用来上传数学学习资料.联系作者:746235760@qq.com
 ## 说明
 ```
