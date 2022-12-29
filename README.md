@@ -6,8 +6,8 @@
 ```
 ## 目前包含的资料
 ### 1.数学教育学
-* [数学教育学复习资料](https://maiimg.com/dec/a96353406594@pdf)
-* [班级管理与班主任工作复习资料](https://maiimg.com/dec/a93069409312@pdf)
+* [数学教育学复习资料(开放下载)](https://maiimg.com/dec/d89790748525@pdf)
+* [班级管理与班主任工作复习资料](https://maiimg.com/dec/a97502748991@pdf)
 
 ### 2.计算机科学
-* [LaTeX学习笔记](https://maiimg.com/dec/a90255413365@pdf)
+* [LaTeX学习笔记(持续更新)](https://maiimg.com/dec/a89272749641@pdf)
