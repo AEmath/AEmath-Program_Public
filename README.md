@@ -1,4 +1,4 @@
-# AEmath Program
+# AEmath Program_Public
 This repository is used for listing resources for National Postgraduate Entrance Examination.Please contact author: aemathprogram@163.com
 
 这个库用来展示学习资料.联系作者: aemathprogram@163.com
