@@ -11,3 +11,4 @@
 
 ### 2.计算机科学
 * [LaTeX学习笔记(持续更新)](https://maiimg.com/dec/a92470822568@pdf)
+* [Markdown学习资料(BookPad说明文档)](https://maiimg.com/dec/a98596044393@pdf)
