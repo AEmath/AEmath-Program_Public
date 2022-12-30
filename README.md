@@ -1,5 +1,5 @@
 # AEmath Program_Public
-This repository is used for listing resources for National Postgraduate Entrance Examination.Please contact author: aemathprogram@163.com
+This repository is used for listing resources for National Postgraduate Entrance Examination.
 
 Contact us by:
 * GitHub: [https://github.com/AEmath/AEmath-Program_Public](https://github.com/AEmath/AEmath-Program_Public)
