@@ -18,6 +18,7 @@ Contact us by:
 
 ## 目前包含的资料
 ### 1.数学教育学
+> * [2023.1 镇江教资面试考题汇总 (开放下载)](https://maiimg.com/dec/d97249752324@pdf)
 > * [数学教育学复习资料 (开放下载)](https://maiimg.com/dec/d89790748525@pdf)
 > * [中学数学教资面试培训文档 (开放下载)](https://maiimg.com/dec/d97457585898@pdf)
 
