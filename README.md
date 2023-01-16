@@ -25,3 +25,6 @@ Contact us by:
 ### 2. 计算机科学
 > #### Markdown
 > * [BookPad 使用教程 (不完全适用GitHub)](https://maiimg.com/dec/a98596044393@pdf)
+
+### 3. 数学
+> * [实变函数学习笔记](https://maifile.cn/est/a161896738689285@doc)
